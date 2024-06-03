@@ -1,0 +1,17 @@
+.mycarousel img{
+    height:800px !important;
+}
+.myicon{
+    color: white !important;
+}
+.contact{
+    text-align: center !important;
+}
+.contact input{
+    width:600px!important;
+    padding:10px;
+}
+.contact textarea{
+    width:600px !important;
+    height:200px!important;
+}
